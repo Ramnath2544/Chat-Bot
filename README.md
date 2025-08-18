@@ -1,8 +1,8 @@
 # Chat Bot
 
-**<h2>Overview<\h2>**
+**<h2>Overview</h2>**
 
-**<h3>Chatbot UI with React<\h3>**
+**<h3>Chatbot UI with React</h3>**
 A sleek and interactive chatbot interface built with React, featuring an auto-scrolling chat window, dynamic interactivity, and polished styling with custom CSS.
 
 ## 🚀 Features  
