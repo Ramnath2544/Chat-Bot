@@ -1,9 +1,13 @@
 # Chat Bot
 
+---
+
 **<h2>Overview</h2>**
 
 **<h3>Chatbot UI with React</h3>**
 A sleek and interactive chatbot interface built with React, featuring an auto-scrolling chat window, dynamic interactivity, and polished styling with custom CSS.
+
+---
 
 ## 🚀 Features  
 
@@ -35,7 +39,9 @@ This project evolved step by step through the following commits:
 
 - **Frontend:** React  
 - **Styling:** CSS  
-- **State & Hooks:** useState, useEffect, useRef  
+- **State & Hooks:** useState, useEffect, useRef
+
+--- 
 
 ## 🎯 Future Improvements  
 
@@ -47,6 +53,8 @@ This project evolved step by step through the following commits:
 
 **<h2>Contributing</h2>**
 We welcome contributions! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
+
+---
 
 ## 👤 Author  
 
