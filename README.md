@@ -54,8 +54,8 @@ This project evolved step by step through the following commits:
 
 ## 📸 Preview  
 <img width="793" height="849" alt="Screenshot 2025-08-18 173002" src="https://github.com/user-attachments/assets/13b4b596-48c3-4dad-8fa0-4cfa9d9c85f9" />
-<img width="793" height="845" alt="Screenshot 2025-08-18 173040" src="https://github.com/user-attachments/assets/ec520270-6b04-4948-999b-c4bc1428dc72" />
-<img width="953" height="1014" alt="Screenshot 2025-08-18 173140" src="https://github.com/user-attachments/assets/b2f48e95-c2f6-432a-b81c-ea9179a1305b" />
+<img width="793" height="849" alt="Screenshot 2025-08-18 173040" src="https://github.com/user-attachments/assets/ec520270-6b04-4948-999b-c4bc1428dc72" />
+<img width="793" height="849" alt="Screenshot 2025-08-18 173140" src="https://github.com/user-attachments/assets/b2f48e95-c2f6-432a-b81c-ea9179a1305b" />
 
 ---
 
