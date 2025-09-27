@@ -14,7 +14,33 @@ A sleek and interactive chatbot interface built with React, featuring an auto-sc
 - 🎨 **Custom UI** – Clean and modern chatbot interface  
 - ⚡ **Interactive Elements** – Engages users with smooth interactions  
 - 🖌️ **Stylish Design** – Fully styled using CSS for a professional appearance  
-- 🔄 **Auto-Scrolling Chat** – Automatically scrolls to the latest response using `useEffect` and `useRef`  
+- 🔄 **Auto-Scrolling Chat** – Automatically scrolls to the latest response using `useEffect` and `useRef`
+
+### ⌨️ Enter Key Features
+
+### Smart Enter Handling
+- Enter Key: Sends the message (same as clicking Send button)
+- Shift + Enter: Allows new lines in the input (for multi-line messages)
+- Prevents Default: Stops the default form submission behavior
+
+### Enhanced User Experience
+- Faster Typing: Users can now press Enter to send messages quickly
+- Natural Feel: Mimics popular chat applications like WhatsApp, Discord, etc.
+- Multi-line Support: Hold Shift + Enter to create line breaks if needed
+
+### How it Works
+- `handleKeyPress` function: Listens for key press events
+- Enter detection: Checks if Enter key is pressed (without Shift)
+- Prevents default: Stops the browser's default Enter behavior
+- Triggers send: Calls the same `sendMessage()` function as the Send button
+
+### User Benefits
+- ✅ Faster messaging: No need to reach for the mouse
+- ✅ Keyboard-friendly: Great for power users
+- ✅ Intuitive: Standard chat app behavior
+- ✅ Accessible: Better for users with mobility issues
+
+Now users can simply type their message and press `Enter` to send it instantly, making the chat experience much more fluid and natural! 🚀
 
 ---
 
