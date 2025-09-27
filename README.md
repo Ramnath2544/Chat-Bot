@@ -44,6 +44,12 @@ Now users can simply type their message and press `Enter` to send it instantly, 
 
 ---
 
+## Demo
+
+Uploading 2025-09-27 19-46-08.mp4…
+
+---
+
 ## 📖 Project Journey  
 This project evolved step by step through the following commits:  
 
