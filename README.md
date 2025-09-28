@@ -46,7 +46,7 @@ Now users can simply type their message and press `Enter` to send it instantly, 
 
 ## Demo
 
-Uploading 2025-09-27 19-46-08.mp4…
+https://github.com/user-attachments/assets/ba0a9c83-eef9-4f97-a58e-7af09a314093
 
 ---
 
